@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zIlZ7mFX8ROvoI4VhdLDwkE10UuHD5EP0hyzlqicrMKphkbvGIZ+UFsf4xdrp/NtDNVOEotlj4XUCj7f6nMeGw==",
+  "dgSpecHash": "cu+kmHFCo+C3bEU+uLGJCC7w+4larGrNa2lmwOoDf5wXBY9cefWFIr55PlFp91loEe8xuVLKE2ER1Qgu19kPOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\taqua\\OneDrive\\Project\\Programming Project\\C-Sharp\\MyMath\\MyMath.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\GitHub\\SendToTeacher\\ClassMath\\MyMath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taqua\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
