@@ -14,3 +14,19 @@ C:\Users\taqua\OneDrive\Programming Project\C-Sharp\MyMath\obj\Debug\net5.0\MyMa
 C:\Users\taqua\OneDrive\Programming Project\C-Sharp\MyMath\obj\Debug\net5.0\ref\MyMath.dll
 C:\Users\taqua\OneDrive\Programming Project\C-Sharp\MyMath\obj\Debug\net5.0\MyMath.pdb
 C:\Users\taqua\OneDrive\Programming Project\C-Sharp\MyMath\obj\Debug\net5.0\MyMath.genruntimeconfig.cache
+D:\GitHub\SendToTeacher\ClassMath\bin\Debug\net5.0\MyMath.exe
+D:\GitHub\SendToTeacher\ClassMath\bin\Debug\net5.0\MyMath.deps.json
+D:\GitHub\SendToTeacher\ClassMath\bin\Debug\net5.0\MyMath.runtimeconfig.json
+D:\GitHub\SendToTeacher\ClassMath\bin\Debug\net5.0\MyMath.runtimeconfig.dev.json
+D:\GitHub\SendToTeacher\ClassMath\bin\Debug\net5.0\MyMath.dll
+D:\GitHub\SendToTeacher\ClassMath\bin\Debug\net5.0\ref\MyMath.dll
+D:\GitHub\SendToTeacher\ClassMath\bin\Debug\net5.0\MyMath.pdb
+D:\GitHub\SendToTeacher\ClassMath\obj\Debug\net5.0\MyMath.csproj.AssemblyReference.cache
+D:\GitHub\SendToTeacher\ClassMath\obj\Debug\net5.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SendToTeacher\ClassMath\obj\Debug\net5.0\MyMath.AssemblyInfoInputs.cache
+D:\GitHub\SendToTeacher\ClassMath\obj\Debug\net5.0\MyMath.AssemblyInfo.cs
+D:\GitHub\SendToTeacher\ClassMath\obj\Debug\net5.0\MyMath.csproj.CoreCompileInputs.cache
+D:\GitHub\SendToTeacher\ClassMath\obj\Debug\net5.0\MyMath.dll
+D:\GitHub\SendToTeacher\ClassMath\obj\Debug\net5.0\ref\MyMath.dll
+D:\GitHub\SendToTeacher\ClassMath\obj\Debug\net5.0\MyMath.pdb
+D:\GitHub\SendToTeacher\ClassMath\obj\Debug\net5.0\MyMath.genruntimeconfig.cache
